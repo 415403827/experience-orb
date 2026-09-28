@@ -1,0 +1,11 @@
+# Normalise commit authorship.
+#
+# The very first commit of this repository was made with a placeholder GitHub
+# noreply address (shimakaze@users.noreply.github.com), which GitHub attributed
+# to the unrelated user "shimakaze". It was re-authored, and this .mailmap keeps
+# any such address mapped onto the project owner so it cannot happen again.
+#
+# Format:  Proper Name <proper@email>  Commit Name <commit@email>
+
+Shimakaze <415403827@qq.com> <shimakaze@users.noreply.github.com>
+Shimakaze <415403827@qq.com> Shimakaze <shimakaze@users.noreply.github.com>
