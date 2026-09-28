@@ -1,0 +1,7 @@
+{
+    "IGUI_ExperienceOrb_OwnerName": "%1 (%2)",
+    "IGUI_ExperienceOrb_Capacity": "%1/%2",
+    "IGUI_ExperienceOrb_Gained": "%1 XP emildi",
+    "IGUI_ExperienceOrb_Partial": "%1 XP emildi - kürede %2 XP kaldı",
+    "IGUI_ExperienceOrb_Capped": "Zaten 10. seviye - %1 XP kürede kalır"
+}

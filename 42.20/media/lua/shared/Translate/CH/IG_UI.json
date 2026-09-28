@@ -1,0 +1,7 @@
+{
+    "IGUI_ExperienceOrb_OwnerName": "%1(%2)",
+    "IGUI_ExperienceOrb_Capacity": "%1/%2",
+    "IGUI_ExperienceOrb_Gained": "吸收 %1 XP",
+    "IGUI_ExperienceOrb_Partial": "吸收 %1 XP，球內剩餘 %2 XP",
+    "IGUI_ExperienceOrb_Capped": "該技能已滿 10 級，球內保留 %1 XP"
+}

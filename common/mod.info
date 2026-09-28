@@ -1,0 +1,6 @@
+name=Experience Orb
+id=ExperienceOrb
+description=Spawns skill XP orbs where a player died; recover the XP you actually earned (Build 42).
+poster=poster.png
+icon=icon.png
+modversion=0.6.2

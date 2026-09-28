@@ -1,0 +1,460 @@
+module Base
+{
+    item XpOrb_Woodwork
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_Woodwork,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_Cooking
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_Cooking,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_Farming
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_Farming,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_Doctor
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_Doctor,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_Electricity
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_Electricity,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_MetalWelding
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_MetalWelding,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_Mechanics
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_Mechanics,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_Tailoring
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_Tailoring,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_Fishing
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_Fishing,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_Trapping
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_Trapping,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_PlantScavenging
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_PlantScavenging,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_FlintKnapping
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_FlintKnapping,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_Masonry
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_Masonry,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_Pottery
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_Pottery,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_Carving
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_Carving,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_Husbandry
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_Husbandry,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_Tracking
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_Tracking,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_Blacksmith
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_Blacksmith,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_Butchering
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_Butchering,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_Glassmaking
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_Glassmaking,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_Aiming
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_Aiming,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_Reloading
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_Reloading,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_LongBlade
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_LongBlade,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_Maintenance
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_Maintenance,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_Axe
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_Axe,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_Blunt
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_Blunt,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_Spear
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_Spear,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_SmallBlade
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_SmallBlade,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_SmallBlunt
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_SmallBlunt,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_Sprinting
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_Sprinting,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_Lightfoot
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_Lightfoot,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_Nimble
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_Nimble,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_Sneak
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_Sneak,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_Fitness
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_Fitness,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+
+    item XpOrb_Strength
+    {
+        DisplayCategory = Material,
+        ItemType = base:drainable,
+        UseDelta = 0.000001,
+        UseWhileEquipped = false,
+        cantBeConsolided = true,
+        Weight = 0.1,
+        Icon = XpOrb_Strength,
+        CanStack = false,
+        WorldStaticModel = TennisBall,
+    }
+}
+
+
+

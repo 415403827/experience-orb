@@ -1,0 +1,23 @@
+# Keep line endings deterministic regardless of the machine / OS:
+# the mod works with both LF and CRLF, but a stable repository content avoids
+# noisy diffs and accidental encoding surprises.
+* text=auto eol=lf
+
+# Explicitly text (Project Zomboid reads both, LF is what vanilla ships)
+*.lua   text eol=lf
+*.json  text eol=lf
+*.txt   text eol=lf
+*.md    text eol=lf
+*.info  text eol=lf
+*.ps1   text eol=lf
+
+# Never touch binary assets
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.webp  binary
+*.fbx   binary
+*.x       binary
+*.ogg   binary
+*.wav   binary
+*.mp3   binary

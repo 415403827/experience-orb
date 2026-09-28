@@ -1,0 +1,7 @@
+{
+    "IGUI_ExperienceOrb_OwnerName": "%1 (%2)",
+    "IGUI_ExperienceOrb_Capacity": "%1/%2",
+    "IGUI_ExperienceOrb_Gained": "Поглинуто %1 досвіду",
+    "IGUI_ExperienceOrb_Partial": "Поглинуто %1 досвіду - залишилось %2",
+    "IGUI_ExperienceOrb_Capped": "Вже 10 рівень - %1 досвіду залишається у сфері"
+}

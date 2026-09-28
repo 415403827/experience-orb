@@ -1,0 +1,7 @@
+{
+    "IGUI_ExperienceOrb_OwnerName": "%1 (%2)",
+    "IGUI_ExperienceOrb_Capacity": "%1/%2",
+    "IGUI_ExperienceOrb_Gained": "%1 XP 흡수",
+    "IGUI_ExperienceOrb_Partial": "%1 XP 흡수 - 구슬에 %2 XP 남음",
+    "IGUI_ExperienceOrb_Capped": "이미 10레벨 - %1 XP가 구슬에 남습니다"
+}

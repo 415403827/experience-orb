@@ -1,0 +1,7 @@
+{
+    "IGUI_ExperienceOrb_OwnerName": "%1 (%2)",
+    "IGUI_ExperienceOrb_Capacity": "%1/%2",
+    "IGUI_ExperienceOrb_Gained": "%1 XP assorbiti",
+    "IGUI_ExperienceOrb_Partial": "%1 XP assorbiti - %2 XP rimasti",
+    "IGUI_ExperienceOrb_Capped": "Già a livello 10 - %1 XP restano nella sfera"
+}
